@@ -6,9 +6,9 @@
 ![](https://img.shields.io/badge/-Lua-0d1117?style=flat&logo=lua)
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/-Python-0d1117?style=flat&logo=python)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 # Langauges i partially know
 ![](https://img.shields.io/badge/-C++-0d1117?style=flat&logo=cplusplus)
-![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 # Contact
 ![](https://discord.c99.nl/widget/theme-1/690146185423487066.png)

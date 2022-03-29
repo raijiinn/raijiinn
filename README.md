@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-![ratio](https://github-readme-stats.vercel.app/api?username=raijiinn&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![](https://github-readme-stats.vercel.app/api?username=raijiinn&show_icons=true&theme=dark&hide_border=true&title_color=FEFEFE&icon_color=55D24B&text_color=FEFEFE&bg_color=0,0E1117,0E1117)
+
